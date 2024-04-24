@@ -1,0 +1,12 @@
+.head-login{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.head-login h1{
+  font-size: 4rem;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}

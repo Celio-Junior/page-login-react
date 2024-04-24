@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "celio",
+      "password": "teste",
+      "id": "90f4"
+    },
+    {
+      "id": "b7a9",
+      "name": "junior",
+      "password": "demon13"
+    },
+    {
+      "id": "1dcd",
+      "name": "teste",
+      "password": "demon13"
+    }
+  ]
+}

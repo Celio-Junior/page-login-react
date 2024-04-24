@@ -1,0 +1,31 @@
+.box-input{
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+  width: 100%;
+  position: relative;
+  margin: 2rem 0;
+}
+
+.box-input input{
+  width: 100%;
+  font-size: 1.7rem;
+  padding: 0.6rem 1rem;
+  color: #1c8080;
+  border: 0.2rem solid #686466;
+  border-radius: 0.8rem;
+  outline: none;
+}
+.box-input input::placeholder{
+  color: #839cb5;
+}
+
+.box-input span{
+  position: absolute;
+  right: 0.4rem;
+}
+
+.box-input span svg{
+  width: 1.5rem;
+  height: 1.5rem;
+}
